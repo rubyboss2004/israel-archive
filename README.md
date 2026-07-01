@@ -11,7 +11,7 @@
 
 部署在 GitHub Pages:
 
-**[https://你的帳號.github.io/israel-archive/](https://rubyboss2004.github.io/israel-archive/)**
+**[https://rubyboss2004.github.io/israel-archive/]**
 
 > ⚠️ 上面的網址是範例。實際部署後,把「你的帳號」和 repo 名稱換成你自己的即可。
 
